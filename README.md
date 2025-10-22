@@ -29,4 +29,6 @@ Calculator/
 └── script.js # JavaScript logic for operations
 
 📸 Preview
-<img width="957" height="729" alt="Screenshot 2025-10-21 101855" src="https://github.com/user-attachments/assets/74639b0a-582a-4b23-a64b-de1d75fed441" />
+
+<img width="767" height="762" alt="Screenshot 2025-10-22 210818" src="https://github.com/user-attachments/assets/cd005291-f5f3-4ba0-92a0-67cd08105c61" />
+
